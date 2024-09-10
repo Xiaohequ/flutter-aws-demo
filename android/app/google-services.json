@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884895850956",
+    "project_id": "aws-demo-a0336",
+    "storage_bucket": "aws-demo-a0336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884895850956:android:5bd28bf4728980b3dffd69",
+        "android_client_info": {
+          "package_name": "com.xqu.aws_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT3wggSeJvWaf-oqeRQdv0Jk21udEnd5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
